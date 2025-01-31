@@ -111,6 +111,7 @@
   
   .topo-do-site .txt-topo-site h1 span{
     color: red;
+    display: inline-block;
   }
   
   .topo-do-site .txt-topo-site p{
